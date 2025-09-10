@@ -90,7 +90,7 @@ profile:
 hexo new page tag
 ```
 
-然后，在 `source/tag/index.html` 文件下, 输入以下申明:
+然后，在 `source/tag/index.md` 文件下, 输入以下申明:
 
 ```
 ---
