@@ -92,7 +92,7 @@ Frame provides a tag cloud on the `/tag/` page, which contains all possible tags
 hexo new page tag
 ```
 
-Inside the `source/tag/index.html` file, type the following:
+Inside the `source/tag/index.md` file, type the following:
 
 ```
 ---
